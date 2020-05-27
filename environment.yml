@@ -1,0 +1,14 @@
+name: rasp_hr
+channels:
+- !!python/unicode
+  'defaults'
+dependencies:
+- python=3.6
+- pip==10.0.1
+- numpy==1.15.2
+- matplotlib==3.0.0
+- pip:
+  - opencv-python==3.4.3.18
+  - opencv-contrib-python==3.4.3.18
+  - tensorflow==1.11.0
+  - keras==2.2.4
