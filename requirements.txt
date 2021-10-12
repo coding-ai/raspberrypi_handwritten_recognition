@@ -15,7 +15,7 @@ mkl-fft==1.0.6
 mkl-random==1.0.1
 numpy==1.15.2
 opencv-contrib-python==3.4.3.18
-opencv-python==3.4.3.18
+opencv-python==3.4.7.28
 protobuf==3.6.1
 pyparsing==2.2.2
 python-dateutil==2.7.3
